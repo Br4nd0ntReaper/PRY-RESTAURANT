@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.content {
+
+    background-image: url('../IMG_CSS/fondo-bg.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+    background-position: center; /* Centra la imagen en el contenedor */
+    padding: 5px; /* Espacio interno alrededor del contenido */
+    width: 800;
+    height: auto;
+}
+
+.bg {
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding: 25px;
+}
